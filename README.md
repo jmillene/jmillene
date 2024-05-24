@@ -1,4 +1,4 @@
-## Oiii eu sou a Jéssica Milene, desenvolvedora BackEnd e estudante de Engenharia de Software! 🎒 
+## Olá, eu sou a Jéssica Milene, desenvolvedora BackEnd e estudante de Engenharia de Software! 🎒 
 
 <div align="center"> <a href="https://github.com/jmillene"> 
 
