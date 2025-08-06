@@ -38,5 +38,5 @@ Atualmente, foco em automações, APIs, dados e recondicionamento de máquinas v
 ## 🌱 "A tecnologia é a ferramenta que utilizo para transformar realidades e construir um futuro mais inclusivo e sustentável."  
 
 <div align="center">
-  <img src="sua_imagem_aqui.png" alt="Reciclando Vidas" width="400"/>
+  <img src="[sua_imagem_aqui.png](https://drive.google.com/file/d/119J8opeh7dzseDh-rRKl_xI-eAoECg53/view?usp=sharing)" alt="Reciclando Vidas" width="400"/>
 </div>
